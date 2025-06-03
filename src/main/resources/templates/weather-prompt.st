@@ -1,0 +1,1 @@
+What is the weather of {city}? What would be the weather in the next three days? {format}
